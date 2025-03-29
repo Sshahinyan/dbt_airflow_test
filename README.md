@@ -1,6 +1,15 @@
-# AIRFLOW_DBT_SNOWFLAKE_DOCKER
-![first_pic](https://github.com/Murataydinunimi/AIRFLOW_DBT_SNOWFLAKE_DOCKER/assets/77208654/acb84a9f-ce5e-40e1-9af3-b94846be8271)
+Welcome to your new dbt project!
+
+### Using the starter project
+
+Try running the following commands:
+- dbt run
+- dbt test
 
 
-# MEDIUM POST
-https://medium.com/@murat_aydin/end-to-end-data-engineering-project-airflow-snowflake-dbt-docker-and-dockeroperator-469a1f969301
+### Resources:
+- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
+- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
+- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
+- Find [dbt events](https://events.getdbt.com) near you
+- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
